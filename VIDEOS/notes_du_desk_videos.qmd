@@ -17,13 +17,17 @@ Les vidéos en question ont pour noms de fichiers
 
 - [bataille_rue.mp4](https://video.univ-rennes1.fr/downloads/file/v12689c0f3e505kmy98b/?url=media_540_Sg9xERZLMU.mp4)
 
-{{< video bataille_rue.mp4 width="720" height="530" allowfullscreen="allowfullscreen" allow="autoplay">}}
+```{=html}
+<iframe width="720" height="530" src="https://video.univ-rennes1.fr/permalink/v12689c0f3e505kmy98b/iframe/" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>
+```
 
 Il semble d'après la personne qui l'a postée sur Twitter que cette vidéo montre **l'avancée des troupes Russes à Severodonesk**
 
 - [bombardement.mp4](https://video.univ-rennes1.fr/downloads/file/v12689c0f3e9fjjk2pjy/?url=media_360_NoDVITyx9t.mp4)
 
-{{< video bombardement.mp4 width="720" height="530" allowfullscreen="allowfullscreen" allow="autoplay">}}
+```{=html}
+<iframe width="720" height="530" src="https://video.univ-rennes1.fr/permalink/v12689c0f3e9fjjk2pjy/iframe/" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>
+```
 
 Le compte qui l'a posté indiquait que c'était une **vidéo prise le 26 avril 2022 à Kyev** par l'un de ses amis
 
@@ -37,7 +41,9 @@ Il s'agirait d'**images prises sur le terrain par une chaîne de télévision uk
 
 Ah et ça s'agite aussi au Vénézuela apparamment. Je vous laisse aussi la vidéo [emeute.mp4](https://video.univ-rennes1.fr/downloads/file/v1264071880cfzucp9lt/?url=media_720_oEtnlAWWkl.mp4) à analyser.
 
-{{< video emeute.mp4 width="720" height="530" allowfullscreen="allowfullscreen" allow="autoplay">}}
+```{=html}
+<iframe width="720" height="530" src="https://video.univ-rennes1.fr/permalink/v1264071880cfzucp9lt/iframe/" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>
+```
 
 Il semble que cela se passe à Caracas, mais pas eu le temps de checker. 
 Je vous laisse le soin de le faire. 
