@@ -1,0 +1,64 @@
+---
+title: "Entre l’injonction à faire soi-même sa recherche et les controverses sur l’expertise, comment évaluer l’information en ligne ?"
+author: "Damien Belvèze"
+date: "2024-05-04"
+format: 
+  html:
+    title-block-banner: "#ee1a26"
+css: "monstyle.css"  
+---
+
+# problématique
+
+Quand on nous enjoint de "faire nos propres recherches", qu'est-ce que cela signifie exactement ? 
+
+Cela signifie t-il que nous devrions nous méfier de ceux dont c'est le métier de faire des recherches pour nous  ?
+Cela signifie t-il que l'information qui vient à nous sans que nous l'ayons recherchée est toxique, et si oui, jusqu'à quel point ?
+Cela signifie t-il que toutes les réponses à nos questions sont à portée de clic, sans aide extérieure, sans besoin d'avoir recours au *terrain*? Si oui, est-ce que toutes les investigations ont vocation à n'être que numériques (OSINT) ?
+Quelle est la différence entre un.e internaute qui tombe dans un "trou du lapin"([^1]) et se retrouve à échanger avec des internautes sur des théories complotistes et un.e militant ou un.e journaliste en sources ouvertes qui cherche sur le web des informations pour orienter son action ou élaborer une théorie cohérente ? 
+
+Parcours du complotisme à la recherche en sources ouvertes : comment ne pas tomber dans le trou du lapin ?
+
+# première partie : les théories du complot, définitions et ingrédients
+
+Aller sur [Klaxoon](https://app.klaxoon.com/participate/board/HCXPKYP)
+
+pour accéder au *Board*, entrer un pseudo et accepter les CGU.
+
+## Définitions
+
+proposer une définition ou à défaut un ensemble de caractéristiques permettant de faire comprendre ce qu'est une théorie du complot (post-it jaune)
+commnenter les propositions des autres participants (aller sur le post-it jaune et cliquer sur la bulle "commentaire", entrer le commentaire)
+Les autres participants peuvent apporter des compléments ou des objections aux commentaires envoyés en répondant directement dans le post-it sous le commentaire. 
+
+## DYOR ("Do Your Own Research")
+
+<iframe width="700" height="722" src="https://damienbelveze.github.io/desinfo_dcb33/dyor.html" frameBorder="0" scrolling="no" styles="width:100%"  data-external="1"></iframe>
+
+## Panique à la rédac
+
+voir la [présentation du jeu](presentation_jeu.html)
+
+- [Analyse des articles](ARTICLES/notes_du_desk_articles.html)  
+
+- [Analyse des photos](PHOTOS/notes_du_desk_photos.html)
+
+- [Analyse des vidéos](VIDEOS/notes_du_desk_videos.html)
+
+Voici [quelques outils](Consignes/outils.html) pour authentifier ces articles, photos et vidéos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^1]: la métaphore du trou du lapin (*rabbit hole*) inaugure le premier chapitre d'*Alice aux Pays des Merveilles*. Basculement dans un monde étrange. Référence reprise dans le film Matrix en lien avec la scène du choix des pilules (pilule rouge : on entre dans le trou du lapin pour voir comment le monde réel est vraiment, pilule bleue, on reste dans l'ignorance).
+

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Belvèze
+    given-names: Damien
+    orcid: https://orcid.org/0000-0001-9020-2148
+title: "Entre l’injonction à faire soi-même sa recherche et les controverses sur l’expertise, comment évaluer l’information en ligne ?"
+version: 2.0.4
+identifiers:
+  - type: URL
+    value: https://github.com/damienbelveze/desinfo_dcb33
+date-released: 2024-05-04

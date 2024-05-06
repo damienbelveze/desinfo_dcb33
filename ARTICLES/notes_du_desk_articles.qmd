@@ -1,0 +1,19 @@
+---
+title: "articles à analyser"
+format: 
+  html:
+    title-block-banner: "#ee1a26"
+    embed-resources: true
+css: "../monstyle.css"  
+---
+
+Ces deux articles sont viraux sur Twitter, je n'ai pas eu le temps de vérifier leur authenticité. Il est évident qu'ils sont extraits de la même publication en ligne, mais je n'ai pas eu le temps de chercher laquelle. 
+ça ne devrait pas vous prendre trop de travail. Désolé de vous planter ainsi, mais c'est un cas de force majeure !
+
+- **premier article**
+
+![](article1.png)
+
+- **deuxième article** 
+
+![](article2.png)
