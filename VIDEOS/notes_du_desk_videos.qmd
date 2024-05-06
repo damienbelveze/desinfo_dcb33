@@ -29,7 +29,9 @@ Le compte qui l'a posté indiquait que c'était une **vidéo prise le 26 avril 2
 
 - [tir_roquettes.mp4](https://video.univ-rennes1.fr/downloads/file/v12689c0f3ef06p2av7i/?url=media_720_raRuD83kJi.mp4)
 
-{{< video tir_roquettes.mp4 width="720" height="530" allowfullscreen="allowfullscreen" allow="autoplay">}}
+```{=html}
+<iframe width="720" height="530" src="https://video.univ-rennes1.fr/permalink/v12689c0f3ef06p2av7i/iframe/" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>
+```
 
 Il s'agirait d'**images prises sur le terrain par une chaîne de télévision ukrainienne du côté de Kharkiv**
 
