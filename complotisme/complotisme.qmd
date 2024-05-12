@@ -1,8 +1,14 @@
 ---
 title: "complotisme et théories conspirationnistes"
 subtitle: "un carburant de la pensée réactionnaire"
-date: 12/04/2024
+date: 13/05/2024
 author: 
+    - name: Damien Belvèze
+      email: damien.belveze@univ-rennes.fr
+      affiliation: 
+        - name: Université de Rennes
+          city: Rennes
+
     - name: Damien Belvèze
       email: damien.belveze@univ-rennes.fr
       affiliation: 
@@ -17,17 +23,14 @@ format:
         embed-resources: true
         transition: convex
         from: markdown+emoji
-        them: [dark, style.css]
-        title-slide-attributes: 
-          background-color: "#00000"
-          color: "#ffffff"
+        theme: [default, style.css]
         reveal_plugins: [menu]
         reveal_options: 
           menu: 
             numbers: true
 
-bibliography: "../desinfo.bib"
-csl: "../apa.csl"
+bibliography: désinfo_dcb33.bib
+csl: apa.csl
 ---
 
 #  {background-color="#fef1da"}
@@ -39,7 +42,7 @@ csl: "../apa.csl"
 Selon l'Abbé Barruel, la Révolution n'est pas un mouvement spontané du peuple mais résulte d'une conjuration anti-chrétienne préparée de longue date par des loges et un club "Les illuminés de Bavière". 
 ::: 
 ::: {.column width="50%"}
-![Abbé Barruel](../images/barruel.png)
+![l](../images/barruel.png)
 :::
 ::::
 
@@ -60,7 +63,7 @@ Or cette manière de ne jamais reconnaître aucune agentivité au peuple, de le 
 Pour Popper (1948) le complotisme relève d'une incapacité à percevoir dans la réalité une multiplicité de phénomènes agissant de manière interdépendante
 ::: 
 ::: {.column width="50%"}
-![Karl Popper](../images/popper.jpg)
+![](../images/popper.jpg)
 :::
 ::::
 
@@ -70,11 +73,11 @@ Pour Popper (1948) le complotisme relève d'une incapacité à percevoir dans la
 
 :::: {.columns style="display: flex !important; height: 90%;"}
 ::: {.column width="50%" style="display: flex; justify-content: center; align-items: center;"}
-Hofstadter revient sur la mentalité Mc Carthiste et analyse la paranoïa et l'esprit complotiste comme une structure de la pensée de la Droite réac (pseudo-conservatrice)
-Le style paranoiaque est un style apocalyptique.
+- Hofstadter revient sur la mentalité Mc Carthiste et analyse la paranoïa et l'esprit complotiste comme une structure de la pensée de la Droite réac (pseudo-conservatrice)
+- Le style paranoiaque est un style apocalyptique 
 ::: 
 ::: {.column width="50%"}
-![Richard Hofstdater](../images/hofstadter.jpg)
+![](../images/hofstadter.jpg)
 :::
 ::::
 :::{.notes}
@@ -83,15 +86,15 @@ Ouvrage de 1964. Pour Richard Hofstadter la mentalité conspirationniste ne se d
 
 #  {background-color="#fef1da"}
 
-### la gauche aussi peut se planter, méfaits du confusionnisme
+### la gauche aussi peut se planter / confusionnisme
 
 :::: {.columns style="display: flex !important; height: 90%;"}
 ::: {.column width="50%" style="display: flex; justify-content: center; align-items: center;"}
-Quand le PCI accusait tous les autres mouvements de révolutionnaires d'être payés par la CIA
-La Russie seule coupable de la défaite d'Hillary Clinton en 2016
+- Quand le PCI accusait tous les autres mouvements de révolutionnaires d'être payés par la CIA
+- La Russie seule coupable de la défaite d'Hillary Clinton en 2016
 :::
 ::: {.column width="50%"}
-![](../images/piazza_fontana.jpg)
+![](../images/piazza_fontana.jpg){ max-height:"800px"}
 :::
 ::::
 #  {background-color="#fef1da"}
@@ -103,33 +106,63 @@ La Russie seule coupable de la défaite d'Hillary Clinton en 2016
 Années 80, rock, snuff movies, émancipation des femmes : Satan à toutes les sauces et retour aux valeurs morales
 ::: 
 ::: {.column width="50%"}
-![Karl Popper](../images/led_zeppelin.jpg)
+![](../images/led_zeppelin.jpg)
 :::
 ::::
 #  {background-color="#fef1da"}
 
 ### Le conspirationnisme, une pensée qui protège le status quo
 
+:::{.incremental}
 - Négation du peuple comme acteur de l'Histoire (il est forcément agi)
-- subjectivation des structures (Mark Andrejevics)
+- subjectivation des structures 
 - paniques morales qui s'attaquent à travers certains fantasmes à tout ce qui constitue une innovation sociale, une émancipation concrète
+:::
 
-#  {background-color="#fef1da"}
+#  {background-color="#fef1da" .smaller}
 
+:::{.scrollable}
 | sujet | critique sociale | lecture conspirationniste |
 |:--|:--|:--|
 | Bill Gates | met la propriété intellectuelle au dessus de l'intérêt commun | veut gouverner le peuple avec la 5G |
 | Klaus Schwabe président du CA du forum de Davos | chantre de la croissance infinie | responsable de la pandémie de COVID-19 |
 | Pfizer | entreprise capitaliste motivée par le profit | entreprise qui administre des vaccins censés influencer nos comportements |
 |contrails | signe d'une augmentation des vols (délétère pour la planète) | chemtrails, geo-engineering |
+:::
 
 # {background-color="#fef1da"}
 
-### croyance
+### Repolitiser les enjeux de société pour lutter contre le complotisme
 
-Umberto Eco : "depuis que les gens ne croient plus en Dieu, ils croient en n'importe quoi."
+Umberto Eco : "Depuis que les gens ne croient plus en Dieu, ils croient en n'importe quoi."
 
 Depuis que les gens ne croient plus dans le progrès social, mais voient leurs conditions sociales et environnementales se dégrader continuellement, il est utile pour le capitalisme de remplacer une critique sociale par des lectures conspirationnistes du monde.
 
+# {background-color="#fef1da" .smaller}
 
+:::{.incremental}
+> pour reprendre une phrase d'électricien, le conspirationnisme est la prise terre du capitalisme, il évacue la tension vers le bas et empêche que les personnes soient foudroyées par la conscience que le système devait être changé
 
+(Wu Ming)
+
+> La seule et véritable alternative consiste à retrouver une capacité politique, à jeter des ponts par-delà un présent cataclysmique, à reconstruire la vision d’un monde commun et d’un avenir inclusif pour tous ceux qui sont en train de perdre le leur
+
+(Nicolas Guilhot)
+:::
+
+# Bibliographie {.smaller}
+
+:::{.scrollable}
+Andrejevic, M. (2013). Infoglut : How too much information is changing the way we think and know.  
+
+Guilhot, P. N. (2021). D’un chaman à l’autre : Théories du complot et impasses du debunking. 13.  
+
+Hofstader, R. (2008, octobre 21). The Pseudo-Conservative Revolt. The American Scholar.   https://theamericanscholar.org/the-pseudo-conservative-revolt/
+
+Hofstadter, R. (1967). The paranoid style in American politics : And other essays. Vintage Books.
+
+Mansuy, A. (2022, novembre 29). Conspirationnisme : Comment en finir, une bonne fois pour toutes ? - AOC media. AOC media - Analyse Opinion Critique. https://aoc.media/analyse/2022/11/29/conspirationnisme-comment-en-finir-une-bonne-fois-pour-toutes/
+
+Wu Ming 1, Echenoz, A., & Quadruppani, S. (2022). Q comme qomplot : Comment les fantasmes de complot défendent le système. Lux éditeur.
+
+:::
