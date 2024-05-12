@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+.blockquote {
+    font-size: 32px;
+    margin-left: 100px;
+    font-style: italic;
+    color: #ee1a26;
+}
+
+body {
+    p{color: black;
+    }
+    h1{
+    color: #10ae9b;
+    }
+}
+
+p.caption {
+    font-size: 0.9em;
+    font-style: italic;
+    color: grey;
+    margin-right: 10%;
+    margin-left: 10%;  
+    text-align: justify;
+  }

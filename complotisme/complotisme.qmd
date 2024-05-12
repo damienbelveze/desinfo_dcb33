@@ -1,0 +1,135 @@
+---
+title: "complotisme et théories conspirationnistes"
+subtitle: "un carburant de la pensée réactionnaire"
+date: 12/04/2024
+author: 
+    - name: Damien Belvèze
+      email: damien.belveze@univ-rennes.fr
+      affiliation: 
+        - name: Université de Rennes
+          city: Rennes
+
+format: 
+    revealjs:
+        slide-number: c/t
+#        show-slide-number: # print
+#       show-notes: separate-page
+        embed-resources: true
+        transition: convex
+        from: markdown+emoji
+        them: [dark, style.css]
+        title-slide-attributes: 
+          background-color: "#00000"
+          color: "#ffffff"
+        reveal_plugins: [menu]
+        reveal_options: 
+          menu: 
+            numbers: true
+
+bibliography: "../desinfo.bib"
+csl: "../apa.csl"
+---
+
+#  {background-color="#fef1da"}
+
+### naissance du complotisme dans le sillage de la contre-révolution 
+
+:::: {.columns style="display: flex !important; height: 90%;"}
+::: {.column width="50%" style="display: flex; justify-content: center; align-items: center;"}
+Selon l'Abbé Barruel, la Révolution n'est pas un mouvement spontané du peuple mais résulte d'une conjuration anti-chrétienne préparée de longue date par des loges et un club "Les illuminés de Bavière". 
+::: 
+::: {.column width="50%"}
+![Abbé Barruel](../images/barruel.png)
+:::
+::::
+
+
+:::
+::::
+::: {.notes}
+Pour Robert H Welch, fondateur de la John Birch Society, la publication du *Manifeste du Parti Communiste* en 1848 est l'oeuvre des Illuminati
+Or cette manière de ne jamais reconnaître aucune agentivité au peuple, de le considérer toujours comme mené par des marionnettistes ploutocrates (quand ils ne sont pas juifs) est en réalité la marque des théories ultra-réactionnaires et n'emprunte pas au populisme qui lui conteste la politique élitiste et inégalitaire menée au grand jour par les partis politiques conservateurs contre les classes populaires @cholletAntipopulismeOuNouvelle2023. 
+:::
+
+#  {background-color="#fef1da"}
+
+### Karl Popper et la naissance du terme "complotisme"
+
+:::: {.columns style="display: flex !important; height: 90%;"}
+::: {.column width="50%" style="display: flex; justify-content: center; align-items: center;"}
+Pour Popper (1948) le complotisme relève d'une incapacité à percevoir dans la réalité une multiplicité de phénomènes agissant de manière interdépendante
+::: 
+::: {.column width="50%"}
+![Karl Popper](../images/popper.jpg)
+:::
+::::
+
+#  {background-color="#fef1da"}
+
+### Hoftstadter, the paranoid style of the right Wing
+
+:::: {.columns style="display: flex !important; height: 90%;"}
+::: {.column width="50%" style="display: flex; justify-content: center; align-items: center;"}
+Hofstadter revient sur la mentalité Mc Carthiste et analyse la paranoïa et l'esprit complotiste comme une structure de la pensée de la Droite réac (pseudo-conservatrice)
+Le style paranoiaque est un style apocalyptique.
+::: 
+::: {.column width="50%"}
+![Richard Hofstdater](../images/hofstadter.jpg)
+:::
+::::
+:::{.notes}
+Ouvrage de 1964. Pour Richard Hofstadter la mentalité conspirationniste ne se définit pas par une croyance à tel ou tel complot mais à la vision de l'Histoire comme étant essentiellement menée sous la forme d'un complot
+:::
+
+#  {background-color="#fef1da"}
+
+### la gauche aussi peut se planter, méfaits du confusionnisme
+
+:::: {.columns style="display: flex !important; height: 90%;"}
+::: {.column width="50%" style="display: flex; justify-content: center; align-items: center;"}
+Quand le PCI accusait tous les autres mouvements de révolutionnaires d'être payés par la CIA
+La Russie seule coupable de la défaite d'Hillary Clinton en 2016
+:::
+::: {.column width="50%"}
+![](../images/piazza_fontana.jpg)
+:::
+::::
+#  {background-color="#fef1da"}
+
+### Les paniques morales des années 80
+
+:::: {.columns style="display: flex !important; height: 90%;"}
+::: {.column width="50%" style="display: flex; justify-content: center; align-items: center;"}
+Années 80, rock, snuff movies, émancipation des femmes : Satan à toutes les sauces et retour aux valeurs morales
+::: 
+::: {.column width="50%"}
+![Karl Popper](../images/led_zeppelin.jpg)
+:::
+::::
+#  {background-color="#fef1da"}
+
+### Le conspirationnisme, une pensée qui protège le status quo
+
+- Négation du peuple comme acteur de l'Histoire (il est forcément agi)
+- subjectivation des structures (Mark Andrejevics)
+- paniques morales qui s'attaquent à travers certains fantasmes à tout ce qui constitue une innovation sociale, une émancipation concrète
+
+#  {background-color="#fef1da"}
+
+| sujet | critique sociale | lecture conspirationniste |
+|:--|:--|:--|
+| Bill Gates | met la propriété intellectuelle au dessus de l'intérêt commun | veut gouverner le peuple avec la 5G |
+| Klaus Schwabe président du CA du forum de Davos | chantre de la croissance infinie | responsable de la pandémie de COVID-19 |
+| Pfizer | entreprise capitaliste motivée par le profit | entreprise qui administre des vaccins censés influencer nos comportements |
+|contrails | signe d'une augmentation des vols (délétère pour la planète) | chemtrails, geo-engineering |
+
+# {background-color="#fef1da"}
+
+### croyance
+
+Umberto Eco : "depuis que les gens ne croient plus en Dieu, ils croient en n'importe quoi."
+
+Depuis que les gens ne croient plus dans le progrès social, mais voient leurs conditions sociales et environnementales se dégrader continuellement, il est utile pour le capitalisme de remplacer une critique sociale par des lectures conspirationnistes du monde.
+
+
+

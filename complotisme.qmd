@@ -1,0 +1,53 @@
+---
+title: "complotisme et théories conspirationnistes"
+subtitle: "un carburant de la pensée réactionnaire"
+date: 12/04/2024
+author: 
+    - name: Damien Belvèze
+      email: damien.belveze@univ-rennes.fr
+      affiliation: 
+        - name: Université de Rennes
+          city: Rennes
+
+format: 
+    revealjs:
+        slide-number: c/t
+#        show-slide-number: # print
+#       show-notes: separate-page
+        embed-resources: true
+        transition: convex
+        from: markdown+emoji
+        them: [dark, style.scss]
+        reveal_plugins: [menu]
+        reveal_options: 
+          menu: 
+            numbers: true
+
+bibliography: "./desinfo.bib"
+csl: "./apa.csl"
+---
+
+# naissance du complotisme dans le sillage de la contre-révolution  {background-color="#fef1da"}
+
+:::: {.columns style="display: flex !important; height: 90%;"}
+::: {.column width="50%" style="display: flex; justify-content: center; align-items: center;"}
+Selon l'Abbé Barruel, la Révolution n'est pas un mouvement spontané du peuple mais résulte d'une conjuration anti-chrétienne préparée de longue date par des loges et un club "Les illuminés de Bavière". 
+::: 
+::: {.column width="50%"}
+![Abbé Barruel](images/barruel.png)
+:::
+::::
+
+# Le protocole des Sages de Sion {background-color="#fef1da"}
+
+:::: {.columns style="display: flex !important; height: 90%;"}
+::: {.column width="50%" style="display: flex; justify-content: center; align-items: center;"}
+La police tsariste met au point le Protocole des Sages de Sion, un best-seller de l'antisémitisme à travers les siècles
+::: 
+::: {.column width="50%"}
+![Protocole des Sages de Sion](images/sion.jpg)
+:::
+::::
+
+
+

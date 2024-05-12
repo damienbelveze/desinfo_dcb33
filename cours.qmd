@@ -31,6 +31,10 @@ proposer une définition ou à défaut un ensemble de caractéristiques permetta
 commnenter les propositions des autres participants (aller sur le post-it jaune et cliquer sur la bulle "commentaire", entrer le commentaire)
 Les autres participants peuvent apporter des compléments ou des objections aux commentaires envoyés en répondant directement dans le post-it sous le commentaire. 
 
+## Le complotisme, carburant de la Droite réac
+
+[notes de cours](complotisme/complotisme.html)
+
 ## DYOR ("Do Your Own Research")
 
 <iframe width="700" height="722" src="https://damienbelveze.github.io/desinfo_dcb33/dyor.html" frameBorder="0" scrolling="no" styles="width:100%"  data-external="1"></iframe>
