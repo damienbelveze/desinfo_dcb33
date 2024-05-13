@@ -1,14 +1,8 @@
 ---
 title: "complotisme et théories conspirationnistes"
 subtitle: "un carburant de la pensée réactionnaire"
-date: 13/05/2024
-author: 
-    - name: Damien Belvèze
-      email: damien.belveze@univ-rennes.fr
-      affiliation: 
-        - name: Université de Rennes
-          city: Rennes
-
+date: 2024-05-13
+author:
     - name: Damien Belvèze
       email: damien.belveze@univ-rennes.fr
       affiliation: 
@@ -29,7 +23,7 @@ format:
           menu: 
             numbers: true
 
-bibliography: désinfo_dcb33.bib
+bibliography: desinfo_dcb33.bib
 csl: apa.csl
 ---
 
@@ -51,16 +45,16 @@ Selon l'Abbé Barruel, la Révolution n'est pas un mouvement spontané du peuple
 ::::
 ::: {.notes}
 Pour Robert H Welch, fondateur de la John Birch Society, la publication du *Manifeste du Parti Communiste* en 1848 est l'oeuvre des Illuminati
-Or cette manière de ne jamais reconnaître aucune agentivité au peuple, de le considérer toujours comme mené par des marionnettistes ploutocrates (quand ils ne sont pas juifs) est en réalité la marque des théories ultra-réactionnaires et n'emprunte pas au populisme qui lui conteste la politique élitiste et inégalitaire menée au grand jour par les partis politiques conservateurs contre les classes populaires @cholletAntipopulismeOuNouvelle2023. 
+Or cette manière de ne jamais reconnaître aucune agentivité au peuple, de le considérer toujours comme mené par des marionnettistes ploutocrates (quand ils ne sont pas juifs) est en réalité la marque des théories ultra-réactionnaires et n'emprunte pas au populisme qui lui conteste la politique élitiste et inégalitaire menée au grand jour par les partis politiques conservateurs contre les classes populaires  :notebook: @cholletAntipopulismeOuNouvelle2023
 :::
 
 #  {background-color="#fef1da"}
 
-### Karl Popper et la naissance du terme "complotisme"
+### Karl Popper et la naissance du terme *complotisme*
 
 :::: {.columns style="display: flex !important; height: 90%;"}
 ::: {.column width="50%" style="display: flex; justify-content: center; align-items: center;"}
-Pour Popper (1948) le complotisme relève d'une incapacité à percevoir dans la réalité une multiplicité de phénomènes agissant de manière interdépendante
+Pour Popper (1948) le complotisme relève d'une incapacité à percevoir dans la réalité une multiplicité de phénomènes agissant de manière interdépendante 
 ::: 
 ::: {.column width="50%"}
 ![](../images/popper.jpg)
@@ -69,7 +63,7 @@ Pour Popper (1948) le complotisme relève d'une incapacité à percevoir dans la
 
 #  {background-color="#fef1da"}
 
-### Hoftstadter, the paranoid style of the right Wing
+### Hoftstadter, the paranoid style of the Right Wing
 
 :::: {.columns style="display: flex !important; height: 90%;"}
 ::: {.column width="50%" style="display: flex; justify-content: center; align-items: center;"}
@@ -81,7 +75,7 @@ Pour Popper (1948) le complotisme relève d'une incapacité à percevoir dans la
 :::
 ::::
 :::{.notes}
-Ouvrage de 1964. Pour Richard Hofstadter la mentalité conspirationniste ne se définit pas par une croyance à tel ou tel complot mais à la vision de l'Histoire comme étant essentiellement menée sous la forme d'un complot
+Ouvrage de 1964. Pour Richard Hofstadter la mentalité conspirationniste ne se définit pas par une croyance à tel ou tel complot mais à la vision de l'Histoire comme étant essentiellement menée sous la forme d'un complot :notebook: @hofstadterParanoidStyleAmerican1967
 :::
 
 #  {background-color="#fef1da"}
@@ -115,8 +109,8 @@ Années 80, rock, snuff movies, émancipation des femmes : Satan à toutes les s
 
 :::{.incremental}
 - Négation du peuple comme acteur de l'Histoire (il est forcément agi)
-- subjectivation des structures 
-- paniques morales qui s'attaquent à travers certains fantasmes à tout ce qui constitue une innovation sociale, une émancipation concrète
+- subjectivation des structures :notebook: @andrejevicInfoglutHowToo2013a
+- paniques morales qui s'attaquent à travers certains fantasmes à tout ce qui constitue une innovation sociale, une émancipation concrète 
 :::
 
 #  {background-color="#fef1da" .smaller}
@@ -132,6 +126,15 @@ Années 80, rock, snuff movies, émancipation des femmes : Satan à toutes les s
 
 # {background-color="#fef1da"}
 
+### complotisme et neurosciences
+
+:::{.incremental}
+- tous biaisés ? l'empire des neurosciences et le *biais Bronner* :notebook: @boullierBiaisBronnerOu2021
+- Les explications sociologiques et historiques occultées :notebook: @guilhotChamanAutreTheories2021a
+:::
+
+# {background-color="#fef1da"}
+
 ### Repolitiser les enjeux de société pour lutter contre le complotisme
 
 Umberto Eco : "Depuis que les gens ne croient plus en Dieu, ils croient en n'importe quoi."
@@ -143,26 +146,15 @@ Depuis que les gens ne croient plus dans le progrès social, mais voient leurs c
 :::{.incremental}
 > pour reprendre une phrase d'électricien, le conspirationnisme est la prise terre du capitalisme, il évacue la tension vers le bas et empêche que les personnes soient foudroyées par la conscience que le système devait être changé
 
-(Wu Ming)
+:notebook: @wuming1CommeQomplotComment2022a
 
 > La seule et véritable alternative consiste à retrouver une capacité politique, à jeter des ponts par-delà un présent cataclysmique, à reconstruire la vision d’un monde commun et d’un avenir inclusif pour tous ceux qui sont en train de perdre le leur
 
-(Nicolas Guilhot)
+:notebook: @guilhotChamanAutreTheories2021a
 :::
 
 # Bibliographie {.smaller}
 
 :::{.scrollable}
-Andrejevic, M. (2013). Infoglut : How too much information is changing the way we think and know.  
-
-Guilhot, P. N. (2021). D’un chaman à l’autre : Théories du complot et impasses du debunking. 13.  
-
-Hofstader, R. (2008, octobre 21). The Pseudo-Conservative Revolt. The American Scholar.   https://theamericanscholar.org/the-pseudo-conservative-revolt/
-
-Hofstadter, R. (1967). The paranoid style in American politics : And other essays. Vintage Books.
-
-Mansuy, A. (2022, novembre 29). Conspirationnisme : Comment en finir, une bonne fois pour toutes ? - AOC media. AOC media - Analyse Opinion Critique. https://aoc.media/analyse/2022/11/29/conspirationnisme-comment-en-finir-une-bonne-fois-pour-toutes/
-
-Wu Ming 1, Echenoz, A., & Quadruppani, S. (2022). Q comme qomplot : Comment les fantasmes de complot défendent le système. Lux éditeur.
 
 :::
